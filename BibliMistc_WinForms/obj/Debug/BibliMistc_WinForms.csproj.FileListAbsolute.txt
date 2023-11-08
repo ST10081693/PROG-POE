@@ -1,0 +1,15 @@
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.csproj.AssemblyReference.cache
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Find_CallN.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Form1.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Identify_Areas.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Menuwind.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Properties.Resources.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.Replace_Books.resources
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.csproj.GenerateResource.cache
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\bin\Debug\BibliMistc_WinForms.exe.config
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\bin\Debug\BibliMistc_WinForms.exe
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\bin\Debug\BibliMistc_WinForms.pdb
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.exe
+C:\Users\ruimanuel\source\repos\BibliMistc_WinForms\BibliMistc_WinForms\obj\Debug\BibliMistc_WinForms.pdb

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeweyDecimalClassification>
+
+    <Category Number="000" Description="Computer science, general works, and information">
+        <Subcategory Number="000" Description="Computer science, knowledge &amp; systems">
+            <Entry Number="001" Description="Knowledge"/>
+            <Entry Number="002" Description="The book"/>
+            <Entry Number="003" Description="Systems"/>
+			<Entry Number="004" Description="Data Processing &amp; computer Science"/>
+		</Subcategory>
+        <Subcategory Number="010" Description="Bibliographies">
+            <Entry Number="011" Description="General bibliographies"/>
+            <Entry Number="012" Description="Bibliographies of individuals"/>
+            <Entry Number="013" Description="Bibliographies of anonymous &amp; pseudonymous works"/>
+			<Entry Number="014" Description="Bibliographies of works from specific places"/>
+		</Subcategory>
+        <Subcategory Number="020" Description="Library and information sciences">
+            <Entry Number="021" Description="Library relationships"/>
+            <Entry Number="022" Description="Administration of physical plant"/>
+            <Entry Number="023" Description="Personnel management"/>
+			<Entry Number="024" Description="Library operations"/>
+		</Subcategory>
+    </Category>
+
+    <Category Number="100" Description="Philosophy and psychology">
+        <Subcategory Number="100" Description="Philosophy and psychology">
+            <Entry Number="101" Description="Theory of philosophy"/>
+            <Entry Number="102" Description="Miscellany of philosophy"/>
+            <Entry Number="103" Description="Kinds of persons treatment"/>
+			<Entry Number="104" Description="Historical &amp; collected persons treatment"/>
+		</Subcategory>
+        <Subcategory Number="110" Description="Metaphysics">
+            <Entry Number="111" Description="Ontology"/>
+            <Entry Number="112" Description="Cosmology"/>
+            <Entry Number="113" Description="Space"/>
+			<Entry Number="114" Description="Time"/>
+		</Subcategory>
+        <Subcategory Number="120" Description="Epistemology">
+            <Entry Number="121" Description="Epistemology"/>
+            <Entry Number="122" Description="Causation"/>
+            <Entry Number="123" Description="Determinism &amp; indeterminism"/>
+			<Entry Number="124" Description="Teleology"/>
+		</Subcategory>
+    </Category>
+
+<Category Number="200" Description="Religion">
+    <Subcategory Number="200" Description="Religion">
+        <Entry Number="201" Description="Religious mythology &amp; social theology"/>
+        <Entry Number="202" Description="Doctrines"/>
+        <Entry Number="203" Description="Public worship"/>
+		<Entry Number="204" Description="Religious experience, life &amp; practice"/>
+	</Subcategory>
+    <Subcategory Number="210" Description="Philosophy and theory of religion">
+        <Entry Number="211" Description="Concepts of God"/>
+        <Entry Number="212" Description="Existence, attributes of God"/>
+        <Entry Number="213" Description="Creation"/>
+		<Entry Number="214" Description="Theodicy"/>
+	</Subcategory>
+    <Subcategory Number="220" Description="Bible">
+        <Entry Number="221" Description="Old Testament"/>
+        <Entry Number="222" Description="Historical books of Old Testament"/>
+        <Entry Number="223" Description="Poetic books of Old Testament"/>
+		<Entry Number="224" Description="Prophetic books of Old Testament"/>
+	</Subcategory>
+</Category>
+
+<Category Number="300" Description="Social sciences">
+    <Subcategory Number="300" Description="Social sciences">
+        <Entry Number="301" Description="Sociology &amp; anthropology"/>
+        <Entry Number="302" Description="Social interaction"/>
+        <Entry Number="303" Description="Social processes"/>
+		<Entry Number="304" Description="Factors affecting social behaviour"/>
+	</Subcategory>
+    <Subcategory Number="310" Description="Statistics">
+        <Entry Number="311" Description="General statistics of Europe"/>
+        <Entry Number="312" Description="General statistics of Asia"/>
+        <Entry Number="313" Description="General statistics of Africa"/>
+		<Entry Number="314" Description="General statistics of North America"/>
+	</Subcategory>
+    <Subcategory Number="320" Description="Political science">
+        <Entry Number="321" Description="Systems of governments &amp; states"/>
+        <Entry Number="322" Description="Relation of state to organized groups"/>
+        <Entry Number="323" Description="Civil &amp; political rights"/>
+		<Entry Number="324" Description="The political process"/>
+	</Subcategory>
+</Category>
+
+<Category Number="400" Description="Language">
+    <Subcategory Number="400" Description="Language">
+        <Entry Number="401" Description="Philosophy &amp; theory"/>
+        <Entry Number="402" Description="Special topics"/>
+        <Entry Number="403" Description="Geographic &amp; persons treatment"/>
+		<Entry Number="404" Description="Special topics"/>
+	</Subcategory>
+    <Subcategory Number="410" Description="Linguistics">
+        <Entry Number="411" Description="Writing systems"/>
+        <Entry Number="412" Description="Etymology"/>
+        <Entry Number="413" Description="Dictionaries"/>
+		<Entry Number="414" Description="Phonology &amp; phonetics"/>
+	</Subcategory>
+    <Subcategory Number="420" Description="English &amp; Old English languages">
+        <Entry Number="421" Description="Writing system, phonology, phonetics of standard English"/>
+        <Entry Number="422" Description="Etymology of standard English"/>
+        <Entry Number="423" Description="Dictionaries of standard English"/>
+		<Entry Number="424" Description="English grammar"/>
+	</Subcategory>
+</Category>
+
+<Category Number="500" Description="Natural sciences and mathematics">
+    <Subcategory Number="500" Description="Natural sciences">
+        <Entry Number="501" Description="Philosophy &amp; theory"/>
+        <Entry Number="502" Description="Natural history"/>
+        <Entry Number="503" Description="Historical, geographic &amp; persons treatment"/>
+		<Entry Number="504" Description="Earth sciences"/>
+	</Subcategory>
+    <Subcategory Number="510" Description="Mathematics">
+        <Entry Number="511" Description="General principles of mathematics"/>
+        <Entry Number="512" Description="Algebra"/>
+        <Entry Number="513" Description="Arithmetic"/>
+		<Entry Number="514" Description="Topology"/>
+
+	</Subcategory>
+    <Subcategory Number="520" Description="Astronomy">
+        <Entry Number="521" Description="Celestial mechanics"/>
+        <Entry Number="522" Description="Techniques, equipment, materials"/>
+        <Entry Number="523" Description="Specific celestial bodies &amp; phenomena"/>
+		<Entry Number="524" Description="Mathematical geography"/>
+	</Subcategory>
+</Category>
+
+<Category Number="600" Description="Technology">
+    <Subcategory Number="600" Description="Technology">
+        <Entry Number="601" Description="Philosophy &amp; theory"/>
+        <Entry Number="602" Description="Organizations"/>
+        <Entry Number="603" Description="Inventions &amp; patents"/>
+		<Entry Number="604" Description="Chemical engineering"/>
+	</Subcategory>
+    <Subcategory Number="610" Description="Medicine &amp; health">
+        <Entry Number="611" Description="Human anatomy, cytology, histology"/>
+        <Entry Number="612" Description="Human physiology"/>
+        <Entry Number="613" Description="Personal health &amp; safety"/>
+		<Entry Number="614" Description="Incidence &amp; prevention of disease"/>
+	</Subcategory>
+    <Subcategory Number="620" Description="Engineering">
+        <Entry Number="621" Description="Applied physics"/>
+        <Entry Number="622" Description="Mining &amp; related operations"/>
+        <Entry Number="623" Description="Military &amp; nautical engineering"/>
+		<Entry Number="624" Description="Civil engineering"/>
+	</Subcategory>
+</Category>
+
+<Category Number="700" Description="Arts and recreation">
+    <Subcategory Number="700" Description="The arts">
+        <Entry Number="701" Description="Philosophy &amp; theory of fine and decorative arts"/>
+        <Entry Number="702" Description="Miscellany of fine and decorative arts"/>
+        <Entry Number="703" Description="Dictionaries &amp; encyclopedias of fine and decorative arts"/>
+		<Entry Number="704" Description="Special topics in fine &amp; decorative arts"/>
+	</Subcategory>
+    <Subcategory Number="710" Description="Area planning &amp; landscape architecture">
+        <Entry Number="711" Description="Area planning"/>
+        <Entry Number="712" Description="Landscape architecture"/>
+        <Entry Number="713" Description="Landscape architecture of trafficways"/>
+		<Entry Number="714" Description="Water features"/>
+	</Subcategory>
+    <Subcategory Number="720" Description="Architecture">
+        <Entry Number="721" Description="Architectural structure"/>
+        <Entry Number="722" Description="Architecture from earliest times to ca. 300"/>
+        <Entry Number="723" Description="Architecture from ca. 300 to 1399"/>
+		<Entry Number="724" Description="Architecture from 1400"/>
+	</Subcategory>
+</Category>
+
+<Category Number="800" Description="Literature">
+    <Subcategory Number="800" Description="Literature, rhetoric &amp; criticism">
+        <Entry Number="801" Description="Philosophy &amp; theory"/>
+        <Entry Number="802" Description="Rhetoric &amp; collections of literature"/>
+        <Entry Number="803" Description="History, description &amp; criticism"/>
+		<Entry Number="804" Description="Italian poetry"/>
+	</Subcategory>
+    <Subcategory Number="810" Description="American literature in English">
+        <Entry Number="811" Description="Poetry"/>
+        <Entry Number="812" Description="Drama"/>
+        <Entry Number="813" Description="Fiction"/>
+		<Entry Number="814" Description="Essays"/>
+	</Subcategory>
+    <Subcategory Number="820" Description="English &amp; Old English literatures">
+        <Entry Number="821" Description="English poetry"/>
+        <Entry Number="822" Description="English drama"/>
+        <Entry Number="823" Description="English fiction"/>
+		<Entry Number="824" Description="English essays"/>
+	</Subcategory>
+</Category>
+
+    <Category Number="900" Description="History and geography">
+        <Subcategory Number="900" Description="History">
+            <Entry Number="901" Description="Philosophy &amp; theory"/>
+            <Entry Number="902" Description="Collected accounts of events"/>
+            <Entry Number="903" Description="World history"/>
+			<Entry Number="904" Description="History of Asia"/>
+		</Subcategory>
+        <Subcategory Number="910" Description="Geography &amp; travel">
+            <Entry Number="911" Description="Historical geography"/>
+            <Entry Number="912" Description="Atlases, maps, charts &amp; plans"/>
+            <Entry Number="913" Description="Geography of ancient world"/>
+			<Entry Number="914" Description="Geography of &amp; travel in Europe"/>
+		</Subcategory>
+        <Subcategory Number="920" Description="Biography, genealogy, insignia">
+            <Entry Number="921" Description="Biography"/>
+            <Entry Number="922" Description="Biography of persons in specific occupations"/>
+            <Entry Number="923" Description="Biography of persons in specific areas of activity"/>
+			<Entry Number="924" Description="Genealogy, names &amp; insignia"/>
+		</Subcategory>
+    </Category>
+</DeweyDecimalClassification>
